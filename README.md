@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Soy un apasionado desarrollador Full Stack con experiencia en React y Python Flask. Me considero un arquitecto digital, creando experiencias significativas desde interfaces interactivas hasta potentes servicios de backend. Disfruto transformando ideas abstractas en productos tangibles, trabajando en cada capa de la aplicación para garantizar una experiencia fluida y efectiva.
